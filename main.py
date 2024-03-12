@@ -4,7 +4,7 @@ from pathlib import Path
 import os
 from discord.utils import get
 
-TOKEN = 'Your Bot Token Here'
+TOKEN = 'MTIxNjgyNDc0OTkxMzgwMDc1NA.G4lMVQ.f8oTrsF-1BvwC27mf7A3AMCffTJVbnWKzKP-X8'
 
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix='-')
